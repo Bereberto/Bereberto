@@ -1,7 +1,7 @@
 - # Hola soy @Bereberto
 - ## ¿Que me gusta?
 -    La musica, los animales y el deporte. tambien me gusta leer, lo ultimo que he leido "El temor de un hombre sabio"
--  ![El temor de un hombre sabio](https://www.iberlibro.com/9788401352331/temor-hombre-sabio-Cr%C3%B3nica-asesino-8401352339/plp)
+-  ![El temor de un hombre sabio](https://es.wikipedia.org/wiki/El_temor_de_un_hombre_sabio)
 - 
 -
 
