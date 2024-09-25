@@ -4,7 +4,7 @@
 - # Actualmente llevo una empresa con mi padre [Naturkasa](https://naturkasa.es/)
 - 
 - 
-- *Disculpa Ester pero hoy no doy para mas
+- **Disculpa Ester pero hoy no doy para mas**
 - 
 -
 
